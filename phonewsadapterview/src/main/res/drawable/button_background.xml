@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:bottom="10dp" android:drawable="@drawable/button_background_pressed" android:state_pressed="true" android:top="10dp" /> <!-- pressed -->
+    <item android:bottom="10dp" android:drawable="@drawable/button_background_default" android:top="10dp" /> <!-- default -->
+</selector>
